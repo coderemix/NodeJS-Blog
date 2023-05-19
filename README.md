@@ -1,8 +1,9 @@
 
 # Build a Blog with Node.JS Express
 
-https://youtu.be/-foo92lFIto
-
+PART-1   https://youtu.be/-foo92lFIto
+PART-2  Template https://youtu.be/gv3FFnOdCIo
+PART-3  https://youtu.be/MruZEGPibC4
 
 
 ```
@@ -25,4 +26,23 @@ npm i nodemon --save-dev
     "dev": "nodemon app.js"
 ]
 ```
+
+VS code need
+EJS Language Support Extension
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
