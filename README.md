@@ -30,8 +30,16 @@ npm i nodemon --save-dev
 VS code need
 EJS Language Support Extension
 
+# 2
 
+template
+style
+script
 
+# 3
+[Google Fonts](https://fonts.google.com/)
+
+popins
 
 
 
